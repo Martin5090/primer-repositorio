@@ -1,0 +1,27 @@
+Git init:Se utiliza para ver la direccion en donde va guardado el archivo.
+
+Git status:Se utiliza para ver el estado de los archivos (Si estan guardados o no)
+
+Git add .:Sirve para guardar todos los archivos.
+
+Git add "nombre del archivo":Sirve para guardar un archivo en especifico.
+
+Git config --global user.name "Usuario":Se utiliza para identificarte con tu nombre de usuario
+
+Git config --global user.email "Email":Se utiliza para identificarse con el email. 
+
+Git commit -m "":Para crear un guardado 
+
+Git branch:Sirve para crear otra rama.
+
+Git remote add origin "URL": Es para guardarlo en el repositorio creado a base de la URL.
+
+Git push origin master:Sirve para subirlo en la nube.
+
+rm .git:Se utiliza para borrar el push ya subido.
+
+Git checkout "nombre de la rama": Sirve para cambiar de rama.
+
+Git merge "nombre de rama": sirve para pasar la informacion de la otra rama a la master
+
+Git branc -d "rama_titulo": sirve para eliminar la rama creada 
